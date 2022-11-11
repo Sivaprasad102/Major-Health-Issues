@@ -3,7 +3,7 @@
 
 This is a web based application developed for health related telugu based website in india
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based  application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://majorhealthissues.azurewebsites.net/
@@ -38,12 +38,12 @@ This is a web based application developed for health related telugu based websit
 ### Privacy policy -
 ![Screenshot 2022-10-22 132220](https://user-images.githubusercontent.com/113416967/197327679-8d5b3cc8-d7ba-4c0c-aafd-22273fa896e4.png)
 
+link:https://majorhealthissues.azurewebsites.net/privacy-policy/
 
 
 
 
-
-## Tech Stack 💻
+## Languages or Technologies
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
